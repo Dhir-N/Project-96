@@ -1,0 +1,25 @@
+body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+label{
+    color:mediumpurple;
+}
+
+input{
+    border-color:white;
+    background-color:white;
+    width: 200px;
+    height: 20px;
+    color: white;
+}
+
+button{
+    background-color:springgreen;
+    border-color: springgreen;
+    color: white;
+    width: 110px;
+    height: 25px;
+}

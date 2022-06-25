@@ -1,0 +1,26 @@
+body{
+    background-image: url(bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+label{
+    color: mediumvioletred;
+}
+
+#logout{
+    width: 100px;
+}
+
+#send{
+    color: white;
+    background-color:indigo;
+    border-color: indigo;
+    width: 100px;
+    height: 25px;
+    margin-top: 10px;
+}
+
+h1{
+    color: white;
+}
